@@ -7,7 +7,6 @@ import com.hp.hpl.jena.query.ResultSet;
 public class AccessFuseki {
 	public static void main(String args[]){
 		
-
 		String queryString ="PREFIX ab:<http://www.semanticweb.org/sathishbabu/ontologies/project/planner.owl#> \n"
 				+ "PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#> \n"
 				+ "PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#> \n"
