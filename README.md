@@ -31,4 +31,4 @@ It has solves the Constraint Satisfactory Problem (CSP) of finding the optimum p
 
 
 ## License
-MPIP is licensed under the MIT license. See [LICENSE](LICENSE) for more information.
+MPIP is licensed under the Apache license. See [LICENSE](LICENSE) for more information.
