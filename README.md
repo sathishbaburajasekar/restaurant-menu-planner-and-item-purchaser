@@ -15,3 +15,5 @@ Steps to run the program
 5.Compile and run the project.
 
 
+## License
+Wifiphisher is licensed under the MIT license. See [LICENSE](LICENSE) for more information.
