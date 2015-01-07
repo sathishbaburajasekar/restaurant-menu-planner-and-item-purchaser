@@ -23,7 +23,7 @@ It has solves the Constraint Satisfactory Problem (CSP) of finding the optimum p
 3.Install Protege and open planner.owl from this repository to view or update the ontology.
 
 
-4.Import  FinalProject from this repository into Eclipse and solve reference issues.
+4.Import mpip-eclipseproj from this repository into Eclipse and solve reference issues.
 
 
 5.Compile and run the project.
