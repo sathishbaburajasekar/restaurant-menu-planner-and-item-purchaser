@@ -5,7 +5,7 @@ Menu Planner and Item Purchaser (MPIP)
 ## About
 MPIP is a Artificial Intelligence tool that can be used to deduce the menu to be cooked based on the given clues.
 
-It has solves the Constraint Satisfactory Problem (CSP) of finding the optimum path to buy the ingredients for the chosen menu.
+It also solves the Constraint Satisfactory Problem (CSP) of finding the optimum path to buy the ingredients for the chosen menu.
 
 ## Requirements
 * Jena Fuseki Server
